@@ -1,3 +1,1 @@
-import { camelCasel } from "lodash";
-
-console.log(camelCasel("hello world"));
+console.log("hello world");
