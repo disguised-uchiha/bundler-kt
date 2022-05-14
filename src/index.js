@@ -1,3 +1,3 @@
-const { camelCase } = require("lodash");
+import { camelCase } from "lodash";
 
 console.log(camelCase("hello world"));
